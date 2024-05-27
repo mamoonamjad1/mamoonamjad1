@@ -41,7 +41,9 @@ I'm a MERN Stack Developer with expertise in TypeScript and a strong proficiency
 <img src="https://img.shields.io/badge/-Node.js-%23339933?style=flat&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/-Express.js-%23000000?style=flat&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/-Auth0-%23EB5424?style=flat&logo=auth0&logoColor=white" />
 </p>
+
 
 ---
 
@@ -79,7 +81,7 @@ I'm a MERN Stack Developer with expertise in TypeScript and a strong proficiency
 ---
 
 #### Version Control:
-<p align='center>
+<p align='center'>
 <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=white" />
 </p>
@@ -94,9 +96,6 @@ I'm a MERN Stack Developer with expertise in TypeScript and a strong proficiency
 <img src="https://img.shields.io/badge/-Slack-%234A154B?style=flat&logo=slack&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=white" />
-</p>
-
-
 </p>
 
 #### 📊 GitHub Stats:
