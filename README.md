@@ -1,7 +1,8 @@
 
-<p align="center">
+<h2 align="center" >
   <b>Hi there 👋, I'm Mamoon Amjad!</b>
-</p>
+</h2>
+
 <!--
 **mamoonamjad1/mamoonamjad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -32,6 +33,8 @@ I'm a MERN Stack Developer with expertise in TypeScript and a strong proficiency
 <img src="https://img.shields.io/badge/-Material--UI-%230081CB?style=flat&logo=material-ui&logoColor=white" />
 <img src="https://img.shields.io/badge/-React_Query-%23FF4154?style=flat&logo=react-query&logoColor=white" />
 </p>
+
+---
 
 #### 🛠 Backend:
 <p align="center">
@@ -75,6 +78,27 @@ I'm a MERN Stack Developer with expertise in TypeScript and a strong proficiency
 
 ---
 
+#### Version Control:
+<p align='center>
+<img src="https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=white" />
+</p>
+
+---
+
+#### Other Tools:
+<p align='center'>
+<img src="https://img.shields.io/badge/-Figma-%23F24E1E?style=flat&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/-Jira-%230052CC?style=flat&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/-ClickUp-%237B68EE?style=flat&logo=clickup&logoColor=white" />
+<img src="https://img.shields.io/badge/-Slack-%234A154B?style=flat&logo=slack&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=white" />
+</p>
+
+
+</p>
+
 #### 📊 GitHub Stats:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mamoonamjad1&show_icons=true&theme=radical" />
@@ -97,7 +121,7 @@ I'm a MERN Stack Developer with expertise in TypeScript and a strong proficiency
 
 #### ⚡ Fun fact:
 <p align="center">
-Did you know that the first computer "bug" was an actual real-life bug? It was a moth found in one of the computers at Harvard in 1947!
+Along with programming my favorite free time activity is to work out that keeps me energetic and motivate me to work, giving me a clear vision.
 </p>
 
 <!-- Feel free to add more sections and fun facts! -->
