@@ -18,7 +18,7 @@ I'm a MERN Stack Developer with expertise in TypeScript and a strong proficiency
 #### 🛠 Languages:
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white" />      
 <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/-C++-%2300599C?style=flat&logo=cplusplus&logoColor=white" />
 </p>
@@ -96,11 +96,6 @@ I'm a MERN Stack Developer with expertise in TypeScript and a strong proficiency
 <img src="https://img.shields.io/badge/-Slack-%234A154B?style=flat&logo=slack&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=white" />
-</p>
-
-#### 📊 GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mamoonamjad1&show_icons=true&theme=radical" />
 </p>
 
 ---
